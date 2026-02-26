@@ -1,2 +1,1 @@
-Hey , my first file in git.
-coming to from  feature_branch_chekuri
+Hey , my first file in git 
