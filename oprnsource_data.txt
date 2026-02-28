@@ -1,1 +1,2 @@
 I'm contributing to cloned branch
+changes in clone 
